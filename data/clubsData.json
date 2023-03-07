@@ -1,0 +1,155 @@
+[
+  {
+    "name":"Manchester United",
+    "coach_name":"Ole Gunnar Solskjær",
+    "country":"England",
+    "trophies":20,
+    "redCards":34
+  },
+  {
+    "name":"Real Madrid",
+    "coach_name":"Zinedine Zidane",
+    "country":"Spain",
+    "trophies":13,
+    "redCards":23
+  },
+  {
+   "name":"Bayern Munich",
+   "coach_name":"Hans-Dieter Flick",
+   "country":"Germany",
+   "trophies":6,
+   "redCards":18
+   },
+   {
+    "name":"FC Barcelona",
+    "coach_name":"Ronald Koeman",
+    "country":"Spain",
+    "trophies":5,
+    "redCards":12
+   },
+   {
+    "name":"Juventus",
+    "coach_name":"Andrea Pirlo",
+    "country":"Italy",
+    "trophies":2,
+    "redCards":9
+   },
+   {
+    "name":"Paris Saint-Germain",
+    "coach_name":"Mauricio Pochettino",
+    "country":"France",
+    "trophies":10,
+    "redCards":21
+    },
+    {"name":"Liverpool",
+    "coach_name":"Jurgen Klopp",
+    "country":"England",
+    "trophies":10,
+    "redCards":21
+   },
+   {
+    "name":"Chelsea",
+    "coach_name":"Thomas Tuchel",
+    "country":"England",
+    "trophies":6,
+    "redCards":19
+   },
+   {
+    "name":"Atletico Madrid",
+    "coach_name":"Diego Simeone",
+    "country":"Spain",
+    "trophies":11,
+    "redCards":19
+  },
+  {
+    "name":"AC Milan",
+    "coach_name":"Stefano Pioli",
+    "country":"Italy",
+    "trophies":18,
+    "redCards":15
+ },
+ {
+  "name":"Inter Milan",
+  "coach_name":"Antonio Conte",
+  "country":"Italy",
+  "trophies":3,
+  "redCards":7
+  },
+  {
+    "name":"Manchester City",
+    "coach_name":"Pep Guardiola",
+    "country":"England",
+    "trophies":6,
+    "redCards":16
+  },
+  {
+    "name":"Ajax Amsterdam",
+    "coach_name":"Erik ten Hag",
+    "country":"Netherlands",
+    "trophies":4,
+    "redCards":11
+  },
+  {
+    "name":"Benfica",
+    "coach_name":"Jorge Jesus",
+    "country":"Portugal",
+    "trophies":37,
+    "redCards":22
+  },
+  {
+    "name":"Borussia Dortmund",
+    "coach_name":"Edin Terzic",
+    "country":"Germany",
+    "trophies":8,
+    "redCards":20
+  },
+  {
+    "name":"Tottenham Hotspur",
+    "coach_name":"Jose Mourinho",
+    "country":"England",
+    "trophies":2,
+    "redCards":9
+  },
+  {
+    "name":"Arsenal",
+    "coach_name":"Mikel Arteta",
+    "country":"England",
+    "trophies":13,
+    "redCards":19
+  },
+  {
+    "name":"Olympique Lyonnais",
+    "coach_name":"Rudi Garcia",
+    "country":"France",
+    "trophies":7,
+    "redCards":15
+  },
+  {
+    "name":"Roma",
+    "coach_name":"Paulo Fonseca",
+    "country":"Italy",
+    "trophies":3,
+    "redCards":12
+  },
+  {
+    "name":"Sevilla",
+    "coach_name":"Julen Lopetegui",
+    "country":"Spain",
+    "trophies":6,
+    "redCards":18
+  },
+  {
+    "name":"OGC Nice",
+    "coach_name":"Adrian Ursea",
+    "country":"France",
+    "trophies":4,
+    "redCards":11
+  },
+  {
+    "name":"Marseille",
+    "coach_name":"Jorge Sampaoli",
+    "country":"France",
+    "trophies":10,
+    "redCards":14
+  }
+]
