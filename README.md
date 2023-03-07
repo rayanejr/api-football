@@ -38,14 +38,6 @@ npm run dev
 ```bash 
 http://localhost:5663
 ```
-## Prérequis
-
- - Node.js
- - Express.js
- - MongoDB
- - JavaScript
- 
-
 
 ## Utilisation
 
@@ -111,8 +103,6 @@ POST /api/club
 - Les routes DELETE et PUT nécessitent une authentification. Pour se connecter, envoyez une requête POST à /api/auth/login avec les identifiants suivants : { email: 'admin', password: 'admin' }. 
 
 
-## 🔗 Contributing
+## 🔗 Auteur
 
-[![Rayane JERBI ](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayane-jerbi/)
-
-
+- [Rayane JERBI](https://www.linkedin.com/in/rayane-jerbi/)
