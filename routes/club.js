@@ -61,7 +61,6 @@ Router.get('/id/:id', async (req, res) => {
         }
         return res.status(200).json(club);
     } catch (err) {
-        // return res.status(500).json({ msg: err });
         console.error(err.message);
         return res.status(500).json({ msg: "Erreur lors de la récupération par l'id du club" });
     }
