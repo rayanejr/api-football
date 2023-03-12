@@ -18,7 +18,7 @@ Ce projet est une API permettant de gérer une collection de clubs de football. 
 1. Clonez le projet à l'aide de la commande suivante :
 
 ```bash
- git clone https://github.com/ldandoy/b2-2023.git
+ git clone https://github.com/rayanejr/api-football.git
 ```
     
 2. Installez les dépendances en exécutant la commande suivante dans le terminal :
