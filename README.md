@@ -105,4 +105,4 @@ POST /api/club
 
 ## 🔗 Auteur
 
-- [Rayane JERBI](https://www.linkedin.com/in/rayane-jerbi)
+- [Rayane JERBI](https://www.linkedin.com/in/rayane-jerbi/)
